@@ -5,9 +5,10 @@
 /* Mobile */
 @media only screen and (min-width: 0em) {
   :root {
-    --dark: #121212;
-    --medium: #282828;
-    --accent: #404040;
+    --darker: #230E04;
+    --dark: #2b1205;
+    --medium: #452c1f;
+    --accent: #594338;
     --charcoal: #1a1a1a;
     --bodyTextColorWhite: #fafbfc;
   }

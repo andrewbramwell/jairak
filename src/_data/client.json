@@ -1,19 +1,19 @@
 {
-    "name": "Rak Thai Massage",
-    "email": "hello@rakthaimassage.co.uk",
-    "phoneForTel": "+447542669798",
-    "phoneFormatted": "07542 669798",
-    "onlineBooking": "https://rakthaimassage.setmore.com/beta",
-    "giftVoucher": "https://rakthai.enjovia.com/",
+    "name": "Jairak Thai Massage",
+    "email": "jairakthaimassage@gmail.com",
+    "phoneForTel": "+447471338784",
+    "phoneFormatted": "07471 338784",
+    "onlineBooking": "https://jairakthaimassage.setmore.com/",
+    "giftVoucher": "",
     "address": {
-        "lineOne": "65 Union Street",
-        "lineTwo": "",
-        "city": "Maidstone",
-        "state": "Kent",
-        "zip": "ME14 1ED",
-        "mapLink": "https://maps.app.goo.gl/NvVzsCkUcA1JeJgV9"
+        "lineOne": "Branch Clinic",
+        "lineTwo": "117 Westgate",
+        "city": "Wakefield",
+        "state": "",
+        "zip": "WF1 1EW",
+        "mapLink": "https://maps.app.goo.gl/t5fn9bNCp7kosAnT6"
     },
-    "domain": "https://rakthaimassage.co.uk"
+    "domain": "https://jairakthaimassage.co.uk"
 }
 
 

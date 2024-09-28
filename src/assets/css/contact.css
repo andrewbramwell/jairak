@@ -224,6 +224,9 @@
   body.dark-mode #contact-1388 .cs-icon-wrapper {
     border-color: #fff;
   }
+  body.dark-mode #contact-1388 .cs-topper {
+    color: var(--primaryLight);
+  }
   body.dark-mode #contact-1388 .cs-icon {
     /* makes it white */
     filter: grayscale(1) brightness(1000%);

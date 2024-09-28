@@ -1,7 +1,7 @@
 ---
 title: 'Contact'
-description: 'Get in touch with Rak Thai Massage in Maidstone. Book your Thai massage, find our location, or inquire about our services. We are here to answer your questions and welcome you.'
-preloadImg: '/assets/images/banners/banner3.webp'
+description: 'Get in touch with Jairak Thai Massage in Wakefield. Book your appointment for a rejuvenating Thai massage experience or ask us any questions you may have.'
+preloadImg: '/assets/images/banners/banner.webp'
 permalink: 'contact/'
 eleventyNavigation:
     key: Contact
@@ -31,10 +31,10 @@ eleventyNavigation:
     <!--Background Image-->
     <picture class="cs-background">
         <!--Mobile Image-->
-        <source media="(max-width: 600px)" srcset="/assets/images/banners/banner3-m.webp">
+        <source media="(max-width: 600px)" srcset="/assets/images/banners/banner-m.webp">
         <!--Tablet and above Image-->
-        <source media="(min-width: 601px)" srcset="/assets/images/banners/banner3.webp">
-        <img decoding="async" src="/assets/images/banners/banner3.jpg" alt="candles and oils" width="1280" height="568" aria-hidden="true">
+        <source media="(min-width: 601px)" srcset="/assets/images/banners/banner.webp">
+        <img decoding="async" src="/assets/images/banners/banner.jpg" alt="oil back massage" width="1280" height="568" aria-hidden="true">
     </picture>
 </div>
 
@@ -69,7 +69,7 @@ eleventyNavigation:
                     </picture>
                     <div class="cs-flex-group">
                         <span class="cs-header">Opening Hours</span>
-                        <a href="{{client.address.mapLink}}" target="_blank" rel="noopener" class="cs-link">Mon-Sun: 10am-9pm</a>
+                        <a href="{{client.address.mapLink}}" target="_blank" rel="noopener" class="cs-link">Mon-Sun: 9.30am-7pm</a>
                     </div>
                 </li>
                 <li class="cs-li">
@@ -78,7 +78,7 @@ eleventyNavigation:
                     </picture>
                     <div class="cs-flex-group">
                         <span class="cs-header">Address</span>
-                        <a href="{{client.address.mapLink}}" class="cs-link">{{client.address.lineOne}}, {{client.address.city}}, {{client.address.zip}}</a>
+                        <a href="{{client.address.mapLink}}" class="cs-link">{{client.address.lineOne}}, {{client.address.lineTwo}}, {{client.address.city}}, {{client.address.zip}}</a>
                     </div>
                 </li>
             </ul>
